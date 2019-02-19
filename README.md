@@ -17,7 +17,8 @@
     * [爬虫（初级）](https://github.com/tdzhang/pre_interview/blob/master/questions/%E7%88%AC%E8%99%AB%EF%BC%88%E5%88%9D%E7%BA%A7%EF%BC%89.md)
     * [爬虫（高级）](https://github.com/tdzhang/pre_interview/blob/master/questions/%E7%88%AC%E8%99%AB%EF%BC%88%E9%AB%98%E7%BA%A7%EF%BC%89.md)
     * [机器学习/数据分析](https://github.com/tdzhang/pre_interview/blob/master/questions/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0.md)
-    * [电商运营/运营助理](https://github.com/tdzhang/pre_interview/blob/master/questions/电商运营.md)
+  * 电商运营
+    * [运营助理](https://github.com/tdzhang/pre_interview/blob/master/questions/电商运营.md)
 * 当通过了远程工程面试，你将被邀请参加一个我们的「现场项目面试」面试。「现场项目面试」需要您带上自己的笔记本电脑，配置好相应的编程环境，会有实际的项目题需要您使用您最熟悉的开发环境完成开发，用于我们确认您独自开发的能力，面试时间为您自己决定的半个小时到4个小时不等（面试具体时间可短可长，因为是现场项目做的节奏由您自己决定，所以最短可以半个小时以内结束，如果你想多花时间，4个小时也可以），如果再远程面试中您是自己独立完成的，则现场项目面试你一定可以轻松完成。
 
 ## 我们看重工程师的什么素质
